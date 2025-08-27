@@ -1,0 +1,10 @@
+require'lspconfig'.tsserver.setup{
+    cmd = { "typescript-language-server", "--stdio" },
+    on_attach = function(client, bufnr)
+        client.resolved_capabilities.document_formatting = false
+        local opts = { noremap=true, silent=true }
+        vim.api.nvim_buf_set_keymap(bufnr, 'n', 'gd', '<cmd>lua vim.lsp.buf.definition()<CR>', opts)
+        vim.api.nvim_buf_set_keymap(bufnr, 'n', 'K', '<cmd>lua vim.lsp.buf.hover()<CR>', opts)
+        vim.api.nvim_buf_set_keymap(bufnr, 'n', 'gr', '<cmd>lua vim.lsp.buf.references()<CR>', opts)
+    end,
+}
