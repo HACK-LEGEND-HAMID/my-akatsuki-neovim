@@ -33,6 +33,32 @@ Language	File Extension	How it Runs / Compiles
 - HTML	.html	Opens in System Default Browser
  # 📝 Neovim Basics & Functionalities
 This section explains basic Neovim functionalities, keybindings, modes, and how to work with input and files.
+# 🔹 Switching Modes
+- Alt+i → insert mode 
+- ALt+n → insert mode 
+- Esc → back to normal mode
+  
+# 🔹 Save and Quit
+- :w → save file
+- :q → quit
+- :wq → save and quit
+- :q! → quit without saving
+
+# 🔹 Navigation
+- h → move left
+- l → move right
+- j → move down
+- k → move up
+- 0 → start of line
+- $ → end of line
+- gg → go to top of file
+- G → go to bottom
+
+# 🔹 Copy, Paste, Delete
+- yy → copy line (yank)
+- p → paste
+- dd → delete line
+- u → undo
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/redberry03373) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hacked_sea) 
 
