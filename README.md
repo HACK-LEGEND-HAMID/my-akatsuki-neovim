@@ -76,6 +76,21 @@ This section explains basic Neovim functionalities, keybindings, modes, and how 
 - p → paste
 - dd → delete line
 - u → undo
+- ## 📦 Requirements
+
+Before installing **Akatsuki Neovim**, make sure you have these installed:
+
+- [Neovim](https://neovim.io/) **v0.9+** (latest recommended)
+- [Git](https://git-scm.com/) – for cloning the config & managing plugins
+- [Node.js](https://nodejs.org/) (for LSP, Treesitter, and plugins that need it)
+- [npm](https://www.npmjs.com/) (comes with Node.js, needed for some plugins)
+- [Python 3](https://www.python.org/) + `pip` (for Python-based plugins)
+- [ripgrep](https://github.com/BurntSushi/ripgrep) – required for Telescope fuzzy finding
+- A terminal that supports **true colors** (kitty, alacritty, wezterm, etc.)
+
+> ⚠️ Optional but recommended:
+> - `lua` (Neovim uses Lua for configs)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/redberry03373) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hacked_sea) 
 
