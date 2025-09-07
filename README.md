@@ -1,7 +1,20 @@
-# 💫 Hi 👋, I'm Hamid Ali khan
-**A Student || Cyber learner || from Pakistan I rise**
+# 🌑 Akatsuki Neovim Config
 
-Email Me 👉 ✉️ **amberkhankhan320@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+> "In the darkness, true power awakens."  
+
+Akatsuki Neovim is not just a config it’s a **dark, legendary setup** forged for speed, elegance, and power.  
+Inspired by the **Akatsuki clan’s aura** this config turns Neovim into a weapon of legends ⚔️.  
+
+🔮 Features that make it special:
+- 🌀 **Lightning-fast startup** – no wasted time, just pure focus.  
+- 🎨 **Dark & aesthetic UI** – crafted for those who love hacker-style vibes.  
+- ⚡ **Optimized for productivity** – coding, editing, or hacking, all in one flow.  
+- 🛠️ **Plugin arsenal** – carefully picked tools for a legendary workflow.  
+
+If you believe in standing apart, in walking the path of shadows…  
+then **Akatsuki Neovim** is your ultimate companion. 🌑🔥  
+
+---
 ## Preview
 
 ![Akatsuki Neovim Demo](https://github.com/user-attachments/assets/a5535da4-aea0-490f-8398-1928cb2b25ba)
