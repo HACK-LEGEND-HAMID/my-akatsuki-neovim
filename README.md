@@ -90,7 +90,14 @@ Before installing **Akatsuki Neovim**, make sure you have these installed:
 
 > ⚠️ Optional but recommended:
 > - `lua` (Neovim uses Lua for configs)
+---
+## ⚔️ Installation
 
+Clone this repo into your Neovim config directory:
+
+```bash
+git clone https://github.com/HACK-LEGEND-HAMID/my-akatsuki-neovim ~/.config/nvim
+```
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/redberry03373) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hacked_sea) 
 
