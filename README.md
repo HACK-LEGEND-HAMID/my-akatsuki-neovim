@@ -2,7 +2,10 @@
 **A Student || Cyber learner || from Pakistan I rise**
 
 Email Me 👉 ✉️ **amberkhankhan320@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-<!-- Uploading "WhatsApp Video 2025-08-30 at 2.07.48 PM.mp4"... -->
+## Preview
+
+![Akatsuki Neovim Demo](https://github.com/user-attachments/assets/a5535da4-aea0-490f-8398-1928cb2b25ba)
+
 # Functionality Section
 ⚡ A highly customized Neovim configuration powered with Lua.  
 ✨ Features:
